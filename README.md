@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdokin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -53,24 +53,33 @@ I'm a passionate software engineer who loves building things and solving problem
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdokin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdokin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdokin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdokin&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdokin&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdokin&theme=radical&hide_border=true)
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdokin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdokin&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdokin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+![Abdokin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdokin&theme=high-contrast&hide_border=true&custom_title=Contribution%20Graph)
+
 </div>
 
 ## 💼 Featured Projects
