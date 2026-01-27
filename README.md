@@ -89,11 +89,6 @@ I'm a software engineer who builds reliable products end-to-end — from UI to A
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdokin&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -107,17 +102,6 @@ I'm a software engineer who builds reliable products end-to-end — from UI to A
 
 ---
 
-## 💼 Featured Projects
-
-### 🔧 Project Name (replace)
-Short one-liner about what it does.
-
-**Tech Stack:** Rails, PostgreSQL, Redis, Sidekiq, React  
-**What I did:** API design, background jobs, CI/CD, performance work
-
-> Add 2–4 projects max. Quality > quantity ✅
-
----
 
 ## 🤝 Connect with Me
 
