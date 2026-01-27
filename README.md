@@ -5,9 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://abdokin.dev">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/abdokin">💼 LinkedIn</a> •
-  <a href="https://twitter.com/abdokin">🐦 Twitter</a>
+  <a href="[https://linkedin.com/in/abdokin](https://www.linkedin.com/in/abderrahman-laraich/)">💼 LinkedIn</a> •
 </p>
 
 ---
