@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdokin
+# 👋 Hi, I'm Abderrahman Laraich
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=520&lines=Software+Engineer;Full+Stack+Developer;Ruby+on+Rails+%2B+JS%2FTS;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
