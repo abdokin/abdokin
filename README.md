@@ -77,18 +77,6 @@ I'm a software engineer who builds reliable products end-to-end — from UI to A
 - 🧪 Strong testing culture (CI, unit/integration, automation)
 - 🔁 CI/CD pipelines with Docker + GitHub Actions/Jenkins
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdokin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdokin&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
 
 ---
 
