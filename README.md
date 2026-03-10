@@ -95,7 +95,7 @@ I'm a software engineer who builds reliable products end-to-end — from UI to A
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/abdokin](https://www.linkedin.com/in/abderrahman-laraich/)](https://www.linkedin.com/in/abderrahman-laraich/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-laraich/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laarichabdo@gmail.com)
 
 </div>
