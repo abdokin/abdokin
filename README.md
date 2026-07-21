@@ -21,7 +21,7 @@ Software engineer focused on building reliable products end to end: clean UI, pr
 | --- | --- | --- |
 | [password-manager](https://github.com/abdokin/password-manager) | A SaaS password and secrets manager with organizations, auth, payments, audit flows, and deployment setup | Rails 8, React, TypeScript, PostgreSQL, Docker |
 | [calculator](https://github.com/abdokin/calculator) | A polished Flutter calculator with expression parsing, history, responsive layout, and tests | Flutter, Dart |
-| [tasfya](https://github.com/abdokin/tasfya) | A deployed TypeScript web app with a modern Next.js-style structure | TypeScript, React, Vercel |
+| [tasfya](https://github.com/abdokin/tasfya) | An RTL Arabic content platform with lessons, lectures, books, auth flows, audio playback, and SEO metadata | Next.js, React, TypeScript, Vercel |
 | [automate-visualization](https://github.com/abdokin/automate-visualization) | Regular-expression to automata visualization with generated NFA/DFA diagrams | Java, Maven, Graphviz |
 | [rraliby](https://github.com/abdokin/rraliby) | Ruby bindings around Raylib through FFI | Ruby, C, Raylib |
 | [re-parser](https://github.com/abdokin/re-parser) | A C++ regular expression parser with an AST-oriented design | C++ |
