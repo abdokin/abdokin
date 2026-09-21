@@ -2,7 +2,7 @@
 
 **Ruby on Rails & React Engineer | Morocco (UTC+1) | Open to fully remote roles**
 
-I build reliable SaaS products across Rails APIs, React interfaces, PostgreSQL data models, background jobs, testing, performance, and deployment. Since 2024, I have worked on healthcare, HR, and technical-assessment software at Mibtech.
+I build reliable SaaS products across Rails APIs, React interfaces, PostgreSQL data models, background jobs, testing, performance, and deployment. Since July 2023, I have worked on healthcare, HR, and technical-assessment software at Mibtech.
 
 [Resume - English](./Abderrahman-Laraich-Resume.pdf) · [CV - Français](./Abderrahman-Laraich-CV-FR.pdf) · [LinkedIn](https://www.linkedin.com/in/abderrahman-laraich/) · [Email](mailto:laarichabdo@gmail.com)
 

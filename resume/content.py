@@ -4,7 +4,7 @@ CONTENT = {
         "remote": "Open to fully remote roles",
         "summary": (
             "Full-stack engineer specializing in Ruby on Rails, React, TypeScript, and PostgreSQL. "
-            "Since 2024, I have shipped healthcare, HR, and technical-assessment products at Mibtech, "
+            "Since July 2023, I have shipped healthcare, HR, and technical-assessment products at Mibtech, "
             "including multi-tenant workflows, sub-100 ms search, performance improvements, and "
             "deployment automation. I am based in Morocco and seeking a fully remote product-engineering role."
         ),
@@ -30,7 +30,7 @@ CONTENT = {
         ],
         "job": {
             "role": "Full-Stack Developer",
-            "location_date": "Casablanca, Morocco<br/>2024 - Present",
+            "location_date": "Casablanca, Morocco<br/>Jul 2023 - Present",
             "stack": "Stack: Ruby on Rails, React, TypeScript, PostgreSQL, MySQL, Redis, Docker, Typesense",
             "bullets": [
                 "Developed timezone management and payroll activity tracking with custom rules and configurable approval workflows for an HRIS platform.",
@@ -109,7 +109,7 @@ CONTENT = {
         "remote": "Ouvert aux postes 100 % à distance",
         "summary": (
             "Ingénieur full-stack spécialisé en Ruby on Rails, React, TypeScript et PostgreSQL. "
-            "Depuis 2024, je développe chez Mibtech des produits pour la santé, les ressources humaines "
+            "Depuis juillet 2023, je développe chez Mibtech des produits pour la santé, les ressources humaines "
             "et l'évaluation technique, notamment des workflows multi-tenant, une recherche en moins de "
             "100 ms, des optimisations de performance et l'automatisation des déploiements. Basé au Maroc, "
             "je recherche un poste entièrement à distance au sein d'une équipe produit."
@@ -136,7 +136,7 @@ CONTENT = {
         ],
         "job": {
             "role": "Développeur Full-Stack",
-            "location_date": "Casablanca, Maroc<br/>2024 - Présent",
+            "location_date": "Casablanca, Maroc<br/>juil. 2023 - Présent",
             "stack": "Stack : Ruby on Rails, React, TypeScript, PostgreSQL, MySQL, Redis, Docker, Typesense",
             "bullets": [
                 "Développé la gestion des fuseaux horaires et le suivi des activités de paie avec des règles personnalisées et des workflows d'approbation configurables pour une plateforme SIRH.",
